@@ -161,12 +161,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Enjoy playing checkers against an AI that learns from every game!** 🎯
+**Enjoy playing checkers against an AI that learns from every game!** 
 
 *Built with Python • Powered by Minimax AI • Designed for Fun*
 
 
-# Buraddo HQ Adventure
+# Cyber City Celestial Blood 
 
 A comprehensive text-based RPG adventure game featuring dungeon crawling, turn-based combat, puzzle solving, and inventory management. Navigate through a futuristic space station, battle cybernetic enemies, and uncover the mystery of Buraddo HQ.
 
