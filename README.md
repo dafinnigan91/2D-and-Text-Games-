@@ -149,9 +149,6 @@ Contributions are welcome! Areas for improvement:
 - Additional game modes
 - Code refactoring and cleanup
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -396,10 +393,6 @@ Multiple solutions to challenges (combat vs stealth vs puzzle-solving) allow dif
 - [ ] Detailed help system with examples
 - [ ] Game statistics and achievement tracking
 - [ ] Colorized output for better readability
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
